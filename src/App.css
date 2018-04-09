@@ -1,0 +1,15 @@
+body
+{
+  font-family: Merriweather;
+  
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.texfoot
+{
+  font-size: xx-small;
+}
